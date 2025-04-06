@@ -18,12 +18,6 @@ The JOB SCREENING AI is a multi-agent AI application designed to streamline the 
 - **Interview Scheduling**: Sends personalized email invitations to shortlisted candidates with interview details.
 - **Web Interface**: Provides a user-friendly web interface for interaction.
 
-## Project Structure
-
-<img width="231" alt="overview" src="https://github.com/user-attachments/assets/f60fe804-3780-4df5-b632-7d2df800a97e" />
-
-
-
 
 ## Requirements
 
@@ -35,6 +29,15 @@ The JOB SCREENING AI is a multi-agent AI application designed to streamline the 
 - smtplib
 - email
 - pdfplumber (for extracting text from CV PDFs)
+
+
+## Project Structure
+
+<img width="231" alt="overview" src="https://github.com/user-attachments/assets/f60fe804-3780-4df5-b632-7d2df800a97e" />
+
+
+
+
 
   ## Working of project 
 
