@@ -39,8 +39,7 @@ The JOB SCREENING AI is a multi-agent AI application designed to streamline the 
 <img width="798" alt="ss 2" src="https://github.com/user-attachments/assets/ac55bcc1-8158-4e2e-996f-373831ad053a" />
 
 
-
-2.Now add cv from CV folder and click on Match candidate button.It will show the Name with job decsription and score.
+2.Now add number of CV from CV folder and click on Match candidate button.It will show the Name with job decsription and score.
 
 <img width="620" alt="score table" src="https://github.com/user-attachments/assets/f69c54c7-8f51-408c-b112-b1ad9f13f099" />
 
