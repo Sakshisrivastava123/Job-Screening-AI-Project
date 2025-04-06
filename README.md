@@ -1,4 +1,4 @@
-﻿# JOB SCREENING AI
+<img width="960" alt="cadence" src="https://github.com/user-attachments/assets/327e15c3-4a1e-4289-a49b-6172c4ecf2d1" />﻿# JOB SCREENING AI
 
 ## Overview
 
@@ -59,13 +59,16 @@ recruitment-automation/
 
 2. pip install -r requirements.txt                 #install the required packages
 
+
 3. python scripts/database_setup.py                # Set up the SQLite database
 
 4. python scripts/main.py                          #Run the Flask application
 
 5. Open your web browser and navigate to ***link*** to access the application.
+## project
 
 
+<img width="393" alt="Project image" src="https://github.com/user-attachments/assets/78b311a4-b5b9-49b8-af88-79cb8ed3431e" />
 
 
 
