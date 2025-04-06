@@ -33,7 +33,7 @@ The JOB SCREENING AI is a multi-agent AI application designed to streamline the 
 
 <img width="393" alt="Project image" src="https://github.com/user-attachments/assets/78b311a4-b5b9-49b8-af88-79cb8ed3431e" />
 
-1. Now choose a CSV file of Job description and click on submit job description button.It will show the summarize Job Description.
+1. Choose a CSV file of Job description and click on submit job description button.It will show summarize Job Description.
 
 
 <img width="798" alt="ss 2" src="https://github.com/user-attachments/assets/ac55bcc1-8158-4e2e-996f-373831ad053a" />
