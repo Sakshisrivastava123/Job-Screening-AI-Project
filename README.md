@@ -1,4 +1,3 @@
-<img width="960" alt="cadence" src="https://github.com/user-attachments/assets/327e15c3-4a1e-4289-a49b-6172c4ecf2d1" />﻿# JOB SCREENING AI
 
 ## Overview
 
@@ -23,6 +22,16 @@ The JOB SCREENING AI is a multi-agent AI application designed to streamline the 
 - smtplib
 - email
 - pdfplumber (for extracting text from CV PDFs)
+
+  ## Working of project 
+
+1.Project overview
+<img width="393" alt="Project image" src="https://github.com/user-attachments/assets/78b311a4-b5b9-49b8-af88-79cb8ed3431e" />
+
+2. Now choose a CSV file of Job description and click on submit button.It will show the summarize Job Description
+<img width="956" alt="ss 2" src="https://github.com/user-attachments/assets/30f373fc-0b58-4fbb-850c-6ce071fd33c6" />
+
+
 
 ## Project Structure
 recruitment-automation/
@@ -65,10 +74,6 @@ recruitment-automation/
 4. python scripts/main.py                          #Run the Flask application
 
 5. Open your web browser and navigate to ***link*** to access the application.
-## project
-
-
-<img width="393" alt="Project image" src="https://github.com/user-attachments/assets/78b311a4-b5b9-49b8-af88-79cb8ed3431e" />
 
 
 
