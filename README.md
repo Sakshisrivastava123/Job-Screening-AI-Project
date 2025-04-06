@@ -25,13 +25,13 @@ The JOB SCREENING AI is a multi-agent AI application designed to streamline the 
 
   ## Working of project 
 
-1.Project overview
 <img width="393" alt="Project image" src="https://github.com/user-attachments/assets/78b311a4-b5b9-49b8-af88-79cb8ed3431e" />
 
-2. Now choose a CSV file of Job description and click on submit button.It will show the summarize Job Description
+1. Now choose a CSV file of Job description and click on submit button.It will show the summarize Job Description
 <img width="956" alt="ss 2" src="https://github.com/user-attachments/assets/30f373fc-0b58-4fbb-850c-6ce071fd33c6" />
 
-
+2.Now add cv from CV folder and click on submit.It will show the Name with job decsription and score.
+<img width="620" alt="score table" src="https://github.com/user-attachments/assets/f69c54c7-8f51-408c-b112-b1ad9f13f099" />
 
 ## Project Structure
 recruitment-automation/
