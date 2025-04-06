@@ -56,28 +56,8 @@ The JOB SCREENING AI is a multi-agent AI application designed to streamline the 
 
 
 ## Project Structure
-recruitment-automation/
-│
-├── data/                        # Directory for data files
-│   ├── job_description.csv      # CSV file containing job descriptions
-│   └── cv/                     # Directory containing CV PDFs
-│       ├── cv1.pdf              # Example CV file
-│       └── cv2.pdf              # Another example CV file
-│
-├── templates/                   # Directory for HTML templates
-│   └── index.html               # Main HTML file for the web interface
-│
-├── scripts/                     # Directory for Python scripts
-│   ├── ollama_model.py          # Script to interact with Ollama 
-│   ├── database_setup.py        # Script to set up the SQLite database
-│   ├── job_description_summarizer.py  # Script for summarizing job descriptions
-│   ├── cv_extractor.py          # Script for extracting data from CVs
-│   ├── candidate_matching.py     # Script for matching candidates with job descriptions
-│   ├── data_insertion.py         # Script to insert data into the database
-│   └── main.py                  # Flask API to handle requests and responses
-│
-├── requirements.txt             # File listing required Python packages
-└── README.md                    # Documentation for the project
+
+<img width="231" alt="overview" src="https://github.com/user-attachments/assets/f60fe804-3780-4df5-b632-7d2df800a97e" />
 
 
 
